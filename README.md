@@ -1,2 +1,2 @@
 # QR-code-generator
-day14/100 learning full-stack
+day10/100 learning full-stack
